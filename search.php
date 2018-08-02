@@ -1,4 +1,5 @@
 <?php
+
 include_once 'config.php';
 
 $dir = $xhprof_env['url_dir'];
